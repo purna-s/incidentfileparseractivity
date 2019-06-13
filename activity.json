@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "flogo:activity",
   "ref": "github.com/purna-s/incidentfileparseractivity",  
-  "title": "XMLFileParser",
+  "title": "IncidentFileParser",
   "description": "Parse file content into a Flogo Array",
   "author": "PurnaS <purna.sadanala@prowesssoft.com>",
 
