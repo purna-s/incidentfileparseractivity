@@ -4,7 +4,7 @@
   "type": "flogo:activity",
   "ref": "github.com/purna-s/incidentfileparseractivity",  
   "title": "IncidentFileParser",
-  "description": "Parse file content into a Flogo Array",
+  "description": "Parse Incident file content into a Flogo Array",
   "author": "PurnaS <purna.sadanala@prowesssoft.com>",
 
   "inputs":[
